@@ -1,9 +1,15 @@
 # wuziqi
 五子棋而已咯
 
-front_end
-前端的html
-以及静态的image
+后端:
+node.js
+socket.io 
 
-back_end
-node.js和socket.io 的后端
+前端
+html5
+jquery
+socket.io client
+
+images:
+静态图片资源
+
